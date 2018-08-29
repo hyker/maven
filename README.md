@@ -9,6 +9,6 @@ repositories {
 }
 
 dependencies {
-    compile 'io.hyker:riks:3.1.+'
+    compile 'io.hyker:riks:3.2.+'
 }
 ```
